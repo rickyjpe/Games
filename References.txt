@@ -1,7 +1,6 @@
 Here I will be listing the most important sites that helped me to learn Pygame and OOP in Python:
 
 I would like to remind that I learned a lot doing this project and my understanding of the subject has improved greatly.
-The most comments made throughout the code were made by me.
 Object Oriented Programming
 - https://www.youtube.com/watch?v=JeznW_7DlB0&t=146s
 Snake Game tutorial
