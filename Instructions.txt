@@ -1,0 +1,11 @@
+
+貝德維 － 108990006
+
+------------The 2000s Throwback---------------------
+
+1. In order to run this application please just run the 'menu.py' file with all the other files. You can use any IDE.（
+2. In order to play a game just click on the buttons.
+3. To return to the menu press the esc key.
+4. To quit entirely press the Quit button on the menu or just close the window.
+
+
